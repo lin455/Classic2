@@ -14,8 +14,8 @@ struct ContentView: View {
             Text("Hello, world!")
                 .font(.title)
                 .padding(.top,40)
-            
             Spacer()
+            
             Text("Hello, world!")
                 .padding(.bottom,40)
                 .frame(height: 200, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
